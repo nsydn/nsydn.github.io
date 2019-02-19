@@ -1,2 +1,5 @@
-# nserhanaydin.github.io
-My Personal/Academic Homepage
+# N.S.Aydin, PhD, FRM
+
+This is my personal/academic webpage.
+
+
