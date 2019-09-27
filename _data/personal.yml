@@ -1,44 +1,45 @@
-name: Ian Li
+name: N Serhan Aydin
 
-label: UI Designer
+label: Asst. Prof. Dr.
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: serhan.aydin@istinye.edu.tr
 
-phone: 
+phone:
 
-department: Android UX
+department: Industrial and Systems Engineering
 
-institution: Google
+institution: Istinye University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  Edirne-Cirpici Yolu, No:9
+  Maltepe Mah., Zeytinburnu 34010
+  Istanbul, Turkey
 
 profiles:
-  - 
+  -
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=jt_tX5sAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/nsaydin/
   -
     network: Twitter
     username: ianli
-    url: https://twitter.com/ianli/
+    url: https://twitter.com/nsydn_
 
 intro:
   title: Hello!
   body: >
     I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
+    Before Google, I was a Ph.D. student in the
     [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
+    My advisors were
+    [Anind Dey](http://www.cs.cmu.edu/~anind/) and
+    [Jodi Forlizzi](http://goodgestreet.com/).
+    I worked on designed and developed
     [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
     [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
