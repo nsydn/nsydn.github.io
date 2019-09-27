@@ -1,6 +1,6 @@
 name: N Serhan Aydin
 
-label: Asst. Prof. Dr.
+label: Asst. Prof. Dr. (HoD)
 
 picture: /img/profile-picture.jpg
 
@@ -8,7 +8,7 @@ email: serhan.aydin@istinye.edu.tr
 
 phone:
 
-department: Industrial and Systems Engineering
+department: Dept. of Industrial and Systems Eng.
 
 institution: Istinye University
 
@@ -32,14 +32,18 @@ profiles:
     url: https://twitter.com/nsydn_
 
 intro:
-  title: Hello!
+  title: Welcome to my personal website!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and
-    [Jodi Forlizzi](http://goodgestreet.com/).
-    I worked on designed and developed
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I'm an Assistant Prof. of Industrial and Sytems Engineering at Istinye University in Istanbul.
+    Turkey. I obtained a BSc. in Management Engineering from Istanbul Technical University (2006), followed by an MSc. (2011) and a
+    PhD. (2016) in Financial Mathematics from the Institute of Applied Mathematics at Middle East Technical University in Ankara, Turkey.
+    I carried out (and fortunately finalized!) my doctoral thesis studies at the Financial Signal Processing (FSP) Lab at Imperial College London.
+    During my graduate studies, I was also granted research fellowships at Heidelberg and Ulm Universities. Between 2011 and 2016, I worked as
+    a senior research economist at an inter-governmental organization and managed multi-stakeholder projects focusing on financial
+    sector development. Prior to Istinye University, Dr Aydin was part-time faculty at the Department of Industrial Engineering
+    at TED University in Ankara, Turkey. He is a designated Financial Risk Manager (FRM) and continues to offer professional training
+    courses in partnership with the industry. He is also serving on the editorial board of a number of international journals and review services.
+    Dr. Aydin’s research interest lies in computational finance, stochastic risk modelling, financial optimization, predictive data analytics, pattern
+    recognition, statistical/machine learning, and financial signal processing.
+
+    # [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
