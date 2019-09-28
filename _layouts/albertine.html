@@ -211,6 +211,53 @@ It is threatened by habitat loss.
     {% endfor %}
   </section>
   {% endif %}
+  
+
+  {% if site.data.classes.size > 0 %}
+  <!-- ==================== -->
+  <!-- CLASSES -->
+  <!-- ==================== -->
+  <section class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h3>Classes</h3>
+      </div>
+    </div>
+
+    {% for class in site.data.classes %}
+      <div class="row">
+        <div class="col-xs-4
+                    col-sm-3
+                    col-md-3
+                    col-lg-2">
+          <p>
+            <img src="{{ site.baseurl }}{{ project.image }}" 
+                 class="img-responsive img-thumbnail"
+                 style="width:100%">
+          </p>
+        </div>
+        <div class="col-xs-12
+                    col-sm-9
+                    col-md-6
+                    col-lg-7">
+          <p>
+            <b>
+              {% if class.url %}
+                <a href="{{ project.url }}">
+                  {{ class.name }}
+                </a>
+              {% else %}
+                {{ class.name }}
+              {% endif %}
+            </b>
+          </p>
+
+          {{ class.description | markdownify }}
+        </div>
+      </div>
+    {% endfor %}
+  </section>
+  {% endif %}
 
   {% if site.data.presentations.size > 0 %}
   <!-- ==================== -->
