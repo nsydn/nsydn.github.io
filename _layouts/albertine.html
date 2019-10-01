@@ -138,7 +138,11 @@ It is threatened by habitat loss.
               </a>
             </b>
             <small>
+            {% if publication.type == 'journal_preprint' %}
+              {{ publication.status }}
+            {% else %}
               {{ publication.year }}
+            {% endif %}
             </small>
             <br>
             {{ publication.authors }}
@@ -153,6 +157,8 @@ It is threatened by habitat loss.
                 {{ publication.volume }},
                 {{ publication.issue }},
                 {{ publication.pages }}
+              {% when 'journal_preprint' %}
+                {{ publication.journal }}
               {% when 'magazine' %}
                 {{ publication.magazine }},
                 {{ publication.volume }},
