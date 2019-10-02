@@ -230,7 +230,6 @@ It is threatened by habitat loss.
   {% endif %}
   
 
-  {% if site.data.classes.size > 0 %}
   <!-- ==================== -->
   <!-- CLASSES -->
   <!-- ==================== -->
@@ -241,6 +240,7 @@ It is threatened by habitat loss.
       </div>
     </div>
 
+  {% if site.data.classes.size > 0 %}
     {% for class in site.data.classes %}
       <div class="row">
         <div class="col-xs-4
@@ -274,6 +274,12 @@ It is threatened by habitat loss.
       </div>
     {% endfor %}
   </section>
+  {% else %}
+    <div class="row">
+      <div class="col-md-9">
+        No classes to display.
+      </div>
+    </div>
   {% endif %}
 
   {% if site.data.presentations.size > 0 %}
