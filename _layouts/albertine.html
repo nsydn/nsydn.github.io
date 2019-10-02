@@ -125,6 +125,9 @@ It is threatened by habitat loss.
     </div>
   </div>
 
+  <!-- ==================== -->
+  <!-- PAPERS -->
+  <!-- ==================== -->
   {% if site.data.publications.size > 0 %}
   <div class="container">
     <div class="row">
@@ -175,7 +178,6 @@ It is threatened by habitat loss.
   		It seems there are yet no publications to display!
   {% endif %}
 
-  {% if site.data.projects.size > 0 %}
   <!-- ==================== -->
   <!-- PROJECTS -->
   <!-- ==================== -->
@@ -185,7 +187,7 @@ It is threatened by habitat loss.
         <h3>Scientific Projects</h3>
       </div>
     </div>
-
+  {% if site.data.projects.size > 0 %
     {% for project in site.data.projects %}
       <div class="row">
         <div class="col-xs-4
@@ -220,9 +222,11 @@ It is threatened by habitat loss.
     {% endfor %}
   </section>
   {% else %}
-  	<br>
-  		It seems there are yet no projects to display!
-  {% endif %}
+    <div class="row">
+      <div class="col-md-9">
+        No projects yet!
+      </div>
+    </div>  {% endif %}
   
 
   {% if site.data.classes.size > 0 %}
