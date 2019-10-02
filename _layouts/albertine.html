@@ -130,7 +130,6 @@ It is threatened by habitat loss.
     <div class="row">
       <section class="col-md-9">
         <h3>Publications</h3>
-
         {% for publication in site.data.publications %}
           <p>
             <b>
@@ -171,6 +170,8 @@ It is threatened by habitat loss.
       </section>
     </div>
   </div>
+  {% else %}
+  	<br>It seems there are yet no publications to display!
   {% endif %}
 
   {% if site.data.projects.size > 0 %}
