@@ -137,7 +137,8 @@ It is threatened by habitat loss.
         {% for publication in site.data.publications %}
           <p>
             <b>
-              <a href="{{ publication.pdf }}">
+<!--               <a href="{{ publication.pdf }}"> -->
+              <a href="{{ publication.path | prepend:site.baseurl }}">
                 {{ publication.title }}
               </a>
             </b>
