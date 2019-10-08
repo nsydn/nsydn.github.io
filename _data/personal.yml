@@ -30,6 +30,10 @@ profiles:
     network: Twitter
     username: nsydn_
     url: https://twitter.com/nsydn_
+  -
+    network: ResearchGate
+    username:
+    url: https://www.researchgate.net/profile/Nadi_Serhan_Aydin
 
 intro:
   title: Welcome!
