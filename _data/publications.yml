@@ -5,12 +5,18 @@
   journal: Journal of Sustainable Finance & Investment
   status: Under review
   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  path: _data/publications/AydinRainer_JSFI_2019_v0.pdf
+  path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
+-
+  type: journal_preprint
+  title: Signal-based optimal strategy via reinforcement learning
+  authors: N.S. Aydin
+  journal: Applied Stochastic Models for Business and Industry
+  path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
 # -
-#   type: journal
-#   title: Using context to reveal factors that affect physical activity
-#   authors: N.S. Aydin, M. Rainer
-#   journal: Journal of Sustainable Finance & Investment
+#   type: journal_preprint
+#   title: Signal-based optimal strategy via reinforcement learning
+#   authors: N.S. Aydin
+#   journal: Applied Stochastic Models for Business and Industry
 #   volume: 19
 #   issue: 1
 #   year: 2012
