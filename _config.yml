@@ -3,4 +3,4 @@ markdown: kramdown
 
 # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
 # url: https://github.com/nsydn
-# baseurl: /nsydn.github.io
+baseurl: /nsydn.github.io
