@@ -134,15 +134,15 @@ It is threatened by habitat loss.
   <div class="container">
     <div class="row">
       <section class="col-md-9">
-        <h3>Publications <small>including Preprints</small></h3>
+        <h3>Publications <small>including preprints</small></h3>
         {% for publication in site.data.publications %}
           <p>
             <b>
 <!--               <a href="{{ publication.pdf }}"> -->
 <!--               <a href="{{ publication.path | prepend:site.baseurl }}"> -->
-              <!-- <a href="{{ publication.path }}">
+              <!-- <a href="{{ publication.path }}"> -->
                 {{ publication.title }}
-              </a> -->
+              <!-- </a> -->
             </b>
             <small>
             {% if publication.type == 'journal_preprint' %}
@@ -159,7 +159,7 @@ It is threatened by habitat loss.
                 {{ publication.conference }}
               {% when 'dissertation' %}
                 {{ publication.publisher }}
-              {% when 'journal' %}
+              {% when 'journal_article' %}
                 {{ publication.journal }},
                 {{ publication.volume }},
                 {{ publication.issue }},
