@@ -1,9 +1,20 @@
 -
+  name: 'Differential and Integral Calculus'
+  description: >
+    Functions, limits, continuity, rules of differentiation and integration, rotational areas and volumes.
+  where: Istinye University
+  when: 2018-2019 Fall
+  code: YAZ101
+  image: /img/dicalc.jpeg
+-
   name: 'Lean Process Design'
   description: >
-    This covers lean techniques that are catered towards analysis, measurement, design, and improvement of business processes and work systems.
+    The course covers lean techniques that are catered towards analysis, measurement, design, and improvement of business processes and work systems.
+  where: TED University
+  when: 2016-2017 Spring
+  code: IE212
   image: /img/lean.png
-  url: http://ianli.com/thesis/
+#  url: http://ianli.com/thesis/
 # -
 #   name: Model of Personal Informatics Systems
 #   description: >
