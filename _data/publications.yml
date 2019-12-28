@@ -1,18 +1,39 @@
 -
   type: journal_preprint
-  title: Asset-backed stable numéraire approach for sustainable valuation
-  authors: N.S. Aydin, M. Rainer
+  title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
+  authors: N.S. Aydin and M. Rainer
   journal: Journal of Sustainable Finance & Investment
   status: Under review
   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
+  #path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
 -
   type: journal_preprint
-  title: Signal-based optimal strategy via reinforcement learning
+  title: Optimal Information Disclosure in Heterogenous Networks: an Application to Limit Order Market
   authors: N.S. Aydin
   journal: Applied Stochastic Models for Business and Industry
   status: Under review
-  path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
+  #path: https://github.com/nsydn/nsydn.github.io/blob/master/_data/pubs/AydinRainer_JSFI_2019_v0.pdf
+-
+  type: journal_article
+  title: Simulation and Prediction of Wind Speeds: A Neural Network for Weibull
+  authors: S. Giebel, M. Rainer and N.S. Aydin
+  journal: Journal of Iranian Statistical Society, 12(1), pp. 293-319.
+  status: Published
+  year: 2013
+-
+  type: journal_article
+  title: Valuation of Power Swing Options
+  authors: N.S. Aydin and M. Rainer
+  journal: Journal of Energy Markets, 6(3), pp. 89-110 (WoS)
+  status: Published
+  year: 2013
+-
+  type: journal_article
+  title: Stress Testing of Energy-Related Derivative Instruments Based on Conditional Market Risk Models
+  authors: N.S. Aydin and C.C. Kucukozmen
+  journal: Journal of Energy, Market and Regulation, 1(2), 121-144
+  status: Published
+  year: 2010 
 # -
 #   type: journal_preprint
 #   title: Signal-based optimal strategy via reinforcement learning
