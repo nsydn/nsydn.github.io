@@ -1,4 +1,12 @@
 -
+  name: 'Operations Research (Linear Programming)'
+  description: >
+    Functions, limits, continuity, rules of differentiation and integration, rotational areas and volumes.
+  where: Istinye University
+  when: 2019-2020 Fall
+  code: ISL305
+  image: /img/dicalc.jpeg
+-
   name: 'Differential and Integral Calculus'
   description: >
     Functions, limits, continuity, rules of differentiation and integration, rotational areas and volumes.
