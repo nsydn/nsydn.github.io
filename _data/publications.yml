@@ -4,18 +4,18 @@
   authors: N.S. Aydin and M. Rainer
   journal: Journal of Sustainable Finance & Investment
   status: Under review
-  pdf: 
-  path:
+  #pdf:
+  #path:
 -
   type: journal_preprint
-  title: Optimal Information Disclosure in Heterogenous Networks: an Application to Limit Order Market
+  title: Optimal Information Disclosure in Heterogenous Networks an Application to Limit Order Market
   authors: N.S. Aydin
   journal: Applied Stochastic Models for Business and Industry
   status: Under review
-  path:
+  #path:
 -
   type: journal_article
-  title: Simulation and Prediction of Wind Speeds: A Neural Network for Weibull
+  title: Simulation and Prediction of Wind Speeds A Neural Network for Weibull
   authors: S. Giebel, M. Rainer and N.S. Aydin
   journal: Journal of Iranian Statistical Society, 12(1), pp. 293-319.
   status: Published
