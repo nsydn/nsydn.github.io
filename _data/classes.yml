@@ -1,11 +1,24 @@
 -
-  name: 'Operations Research (Linear Programming)'
-  description: >
-    Functions, limits, continuity, rules of differentiation and integration, rotational areas and volumes.
+  name: 'Computational Thinking'
+  description: Timleine of computing; representation and processing of numbers, texts, images; understanding patterns; loops and iterative functions, Python.
   where: Istinye University
   when: 2019-2020 Fall
   code: ISL305
-  image: /img/dicalc.jpeg
+  image: /img/comp.png
+-
+  name: 'Probability and Statistics'
+  description: Probability theory, axioms, discrete and contiuous random variables, moments and moment generating functions, maximum likelihood estimation, statistical inference.
+  where: Istinye University
+  when: 2019-2020 Fall
+  code: ISL305
+  image: /img/prob.jpeg
+-
+  name: 'Operations Research (Linear Programming)'
+  description: Formulating LPs, graphical method, simplex method, sensitivity, duality, transportation models, network models.
+  where: Istinye University
+  when: 2019-2020 Fall
+  code: ISL305
+  image: /img/opres.png
 -
   name: 'Differential and Integral Calculus'
   description: >
