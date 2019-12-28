@@ -240,7 +240,7 @@ It is threatened by habitat loss.
   <section class="container">
     <div class="row">
       <div class="col-md-9">
-        <h3>Classes</h3>
+        <h3>Courses</h3>
       </div>
     </div>
 
@@ -270,7 +270,11 @@ It is threatened by habitat loss.
                 <small>{{ class.code }}</small>
               {% else %}
                 {{ class.name }}
-                <small>{{ class.code }}</small>
+                <font size=1>(
+                  {{ class.code }},
+                  {{ class.where }},
+                  {{ class.when }}
+                  )</font>
               {% endif %}
             </b>
           </p>

@@ -2,15 +2,15 @@
   name: 'Computational Thinking'
   description: Timleine of computing; representation and processing of numbers, texts, images; understanding patterns; loops and iterative functions, Python.
   where: Istinye University
-  when: 2019-2020 Fall
-  code: ISL305
+  when: 2019-2020 Spring
+  code: XXX
   image: /img/comp.png
 -
   name: 'Probability and Statistics'
   description: Probability theory, axioms, discrete and contiuous random variables, moments and moment generating functions, maximum likelihood estimation, statistical inference.
   where: Istinye University
-  when: 2019-2020 Fall
-  code: ISL305
+  when: 2019-2020 Spring
+  code: EEE105/CE105
   image: /img/prob.jpeg
 -
   name: 'Operations Research (Linear Programming)'
