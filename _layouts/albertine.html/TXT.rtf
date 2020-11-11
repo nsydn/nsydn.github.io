@@ -1,0 +1,117 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2512
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c93333;}
+{\info
+{\title \{\{ site.data.personal.name \}\}}}\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa321\partightenfactor0
+
+\f0\b\fs48 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{\{ site.data.personal.name \}\} \
+\pard\pardeftab720\sa298\partightenfactor0
+
+\fs36 \cf2 \{\{ site.data.personal.label \}\}\uc0\u8232 \{\{ site.data.personal.institution \}\} \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \pard\pardeftab720\partightenfactor0
+\cf2  \
+\{% if site.data.personal.intro.title %\}\
+\pard\pardeftab720\sa960\partightenfactor0
+
+\f0\b\fs96 \cf2 \{\{ site.data.personal.intro.title \}\} \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% else %\}\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 About \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% endif %\}\
+\{\{ site.data.personal.intro.body | markdownify \}\} \
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 Contact\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{\{ site.data.personal.email \}\} \
+\{\{ site.data.personal.department \}\}\uc0\u8232 \{\{ site.data.personal.institution \}\}\u8232 \{\{ site.data.personal.mailing_address | replace:'\\n','\u8232 ' \}\} \
+\{% for profile in site.data.personal.profiles %\} \{% if profile.network == 'Google Scholar' %\} \{% elsif profile.network == 'LinkedIn' %\} \{% elsif profile.network == 'Twitter' %\} \{% endif %\} {\field{\*\fldinst{HYPERLINK "file:///Users/Nadi/Documents/GitHub/nsydn/nsydn.github.io/_layouts/%7B%7B%20profile.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ profile.network \}\} }}\{% if forloop.last == false %\} \uc0\u8232 \{% endif %\} \{% endfor %\} \
+\pard\pardeftab720\partightenfactor0
+\cf2 \{% if site.data.publications.size > 0 %\}\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 Publications 
+\fs20 (including preprints)
+\fs28 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% for publication in site.data.publications %\}\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf2 \{\{ publication.title \}\} 
+\f1\b0\fs20 \{% if publication.type == 'journal_preprint' %\} \{\{ publication.status \}\} \{% else %\} \{\{ publication.year \}\} \{% endif %\} 
+\fs24 \uc0\u8232 \{\{ publication.authors \}\} \u8232 \{% case publication.type %\} \{% when 'conference' %\} \{\{ publication.conference \}\} \{% when 'dissertation' %\} \{\{ publication.publisher \}\} \{% when 'journal_article' %\} \{\{ publication.journal \}\}, \{\{ publication.volume \}\}, \{\{ publication.issue \}\}, \{\{ publication.pages \}\} \{% when 'journal_preprint' %\} \{\{ publication.journal \}\} \{% when 'magazine' %\} \{\{ publication.magazine \}\}, \{\{ publication.volume \}\}, \{\{ publication.issue \}\}, \{\{ publication.pages \}\} \{% endcase %\} \
+\pard\pardeftab720\partightenfactor0
+\cf2 \{% endfor %\} \
+\{% else %\} \
+It seems there are yet no publications to display! \{% endif %\}\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 Scientific Projects\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% if site.data.projects.size > 0 %\} \{% for project in site.data.projects %\}\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2  \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf2 \{% if project.url %\} {\field{\*\fldinst{HYPERLINK "file:///Users/Nadi/Documents/GitHub/nsydn/nsydn.github.io/_layouts/%7B%7B%20project.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ project.name \}\} }}\{% else %\} \{\{ project.name \}\} \{% endif %\} 
+\f1\b0 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \{\{ project.description | markdownify \}\} \
+\{% endfor %\} \{% else %\}\
+Being added... \
+\{% endif %\} \
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 Teaching\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% if site.data.classes.size > 0 %\} \{% for class in site.data.classes %\}\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2  \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf2 \{% if class.url %\} {\field{\*\fldinst{HYPERLINK "file:///Users/Nadi/Documents/GitHub/nsydn/nsydn.github.io/_layouts/%7B%7B%20class.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ class.name \}\} }}
+\fs20 \{\{ class.code \}\}
+\fs24  \{% else %\} \{\{ class.name \}\} 
+\fs20 \{\{ class.code \}\}, \{\{ class.where \}\}, \{\{ class.when \}\} 
+\fs24 \{% endif %\} 
+\f1\b0 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \{\{ class.description | markdownify \}\} \
+\{% endfor %\} \
+\{% else %\}\
+No classes to display. \
+\{% endif %\} \{% if site.data.presentations.size > 0 %\}\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf2 Presentations\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \{% for presentation in site.data.presentations %\}\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf2 \{% if presentation.slides_url %\} {\field{\*\fldinst{HYPERLINK "file:///Users/Nadi/Documents/GitHub/nsydn/nsydn.github.io/_layouts/%7B%7B%20presentation.slides_url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ presentation.title \}\} }}\{% else %\} \{\{ presentation.title \}\} \{% endif %\} 
+\f1\b0\fs20 \{\{ presentation.date \}\} 
+\fs24 \uc0\u8232 \{\{ presentation.location \}\} \
+\pard\pardeftab720\partightenfactor0
+\cf2 \{% endfor %\} \
+\{% endif %\}\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\pardeftab720\partightenfactor0
+\cf2 Design credit: {\field{\*\fldinst{HYPERLINK "http://www.elbowpatched.com/"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Elbowpatched }}\
+}
