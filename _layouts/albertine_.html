@@ -1,0 +1,44 @@
+{{ site.data.personal.name }} 
+{{ site.data.personal.label }} {{ site.data.personal.institution }} 
+ 
+{% if site.data.personal.intro.title %}
+{{ site.data.personal.intro.title }} 
+{% else %}
+About 
+{% endif %}
+{{ site.data.personal.intro.body | markdownify }} 
+Contact
+{{ site.data.personal.email }} 
+{{ site.data.personal.department }} {{ site.data.personal.institution }} {{ site.data.personal.mailing_address | replace:'\n',' ' }} 
+{% for profile in site.data.personal.profiles %} {% if profile.network == 'Google Scholar' %} {% elsif profile.network == 'LinkedIn' %} {% elsif profile.network == 'Twitter' %} {% endif %} {{ profile.network }} {% if forloop.last == false %}  {% endif %} {% endfor %} 
+{% if site.data.publications.size > 0 %}
+Publications (including preprints)
+{% for publication in site.data.publications %}
+{{ publication.title }} {% if publication.type == 'journal_preprint' %} {{ publication.status }} {% else %} {{ publication.year }} {% endif %}  {{ publication.authors }}  {% case publication.type %} {% when 'conference' %} {{ publication.conference }} {% when 'dissertation' %} {{ publication.publisher }} {% when 'journal_article' %} {{ publication.journal }}, {{ publication.volume }}, {{ publication.issue }}, {{ publication.pages }} {% when 'journal_preprint' %} {{ publication.journal }} {% when 'magazine' %} {{ publication.magazine }}, {{ publication.volume }}, {{ publication.issue }}, {{ publication.pages }} {% endcase %} 
+{% endfor %} 
+{% else %} 
+It seems there are yet no publications to display! {% endif %}
+Scientific Projects
+{% if site.data.projects.size > 0 %} {% for project in site.data.projects %}
+ 
+{% if project.url %} {{ project.name }} {% else %} {{ project.name }} {% endif %} 
+{{ project.description | markdownify }} 
+{% endfor %} {% else %}
+Being added... 
+{% endif %} 
+Teaching
+{% if site.data.classes.size > 0 %} {% for class in site.data.classes %}
+ 
+{% if class.url %} {{ class.name }} {{ class.code }} {% else %} {{ class.name }} {{ class.code }}, {{ class.where }}, {{ class.when }} {% endif %} 
+{{ class.description | markdownify }} 
+{% endfor %} 
+{% else %}
+No classes to display. 
+{% endif %} {% if site.data.presentations.size > 0 %}
+Presentations
+{% for presentation in site.data.presentations %}
+{% if presentation.slides_url %} {{ presentation.title }} {% else %} {{ presentation.title }} {% endif %} {{ presentation.date }}  {{ presentation.location }} 
+{% endfor %} 
+{% endif %}
+
+Design credit: Elbowpatched 
