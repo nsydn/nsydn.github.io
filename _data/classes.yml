@@ -1,22 +1,29 @@
 -
-  name: 'Computational Thinking'
-  description: Timleine of computing; representation and processing of numbers, texts, images; understanding patterns; loops and iterative functions, Python.
+  name: 'Engineering Economics'
+  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
   where: Istinye University
-  when: 2019-2020 Spring
+  when: 2020/21 Fall
+  code: ISE203
+  image: /img/comp.png
+-
+  name: 'Computational Thinking'
+  description: Timeline of computing; representation and processing of numbers, texts, images; understanding patterns; loops and iterative functions, Python.
+  where: Istinye University
+  when: 2019/20 Spring
   code: XXX
   image: /img/comp.png
 -
   name: 'Probability and Statistics'
-  description: Probability theory, axioms, discrete and contiuous random variables, moments and moment generating functions, maximum likelihood estimation, statistical inference.
+  description: Probability theory, axioms, discrete and continuous random variables, moments and moment generating functions, maximum likelihood estimation, statistical inference.
   where: Istinye University
-  when: 2019-2020 Spring
-  code: EEE105/CE105
+  when: 2019/20 Spring, 2020/21 Spring 
+  code: EEE105/CoE105
   image: /img/prob.jpeg
 -
   name: 'Operations Research (Linear Programming)'
   description: Formulating LPs, graphical method, simplex method, sensitivity, duality, transportation models, network models.
   where: Istinye University
-  when: 2019-2020 Fall
+  when: 2019/20 Fall
   code: ISL305
   image: /img/opres.png
 -
@@ -24,7 +31,7 @@
   description: >
     Functions, limits, continuity, rules of differentiation and integration, rotational areas and volumes.
   where: Istinye University
-  when: 2018-2019 Fall
+  when: 2018/19 Fall
   code: YAZ101
   image: /img/dicalc.jpeg
 -
@@ -32,7 +39,7 @@
   description: >
     The course covers lean techniques that are catered towards analysis, measurement, design, and improvement of business processes and work systems.
   where: TED University
-  when: 2016-2017 Spring
+  when: 2016/17 Spring
   code: IE212
   image: /img/lean.png
 #  url: http://ianli.com/thesis/
