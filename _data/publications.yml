@@ -1,9 +1,44 @@
 -
   type: journal_preprint
+  title: Integrated Design of Sustainable Supply Chain and Transportation Network using Fuzzy Goal Programming
+  authors: E.B. Tirkolaee and N.S. And{\i}n
+  journal: Applied Soft Computing
+  status: Under review
+  year: 2020
+#  volume:
+#  issue:
+#  pdf:
+#  path:
+-
+  type: journal_preprint
+  title: Fuzzy Integrated Cell Formation and Production Scheduling considering Automated Guided Vehicles and Human Factors
+  authors: A. Goli, E.B. Tirkolaee and N.S. Ayd{\i}n
+  journal: Transactions on Fuzzy Systems
+  status: Under review
+  year: 2020
+#  volume:
+#  issue:
+#  pdf:
+#  path:
+-
+  type: journal_article
+  title: A robust bi-objective mathematical model for disaster rescue units allocation and scheduling with learning effect
+  authors: E.B. Tirkolaee, N.S. Aydin, G.-W. Weber and M. Ranjbar-Bourani
+  journal: Computers & Industrial Engineering
+  status: Published
+  year: 2020
+  volume: 149
+  issue: Nov
+#  pdf:
+#  path:
+-
+  type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
   authors: N.S. Aydin and M. Rainer
   journal: Journal of Sustainable Finance & Investment
-  status: Under review
+  status: Published
+  year: 2020
+  volume: DOI: 10.1080/20430795.2020.1769983
   #pdf:
   #path:
 -
