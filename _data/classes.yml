@@ -4,7 +4,7 @@
   where: Istinye University
   when: 2020/21 Fall
   code: ISE203
-  image: /img/econ.jpg
+  image: /img/econ.jpeg
 -
   name: 'Computational Thinking'
   description: Timeline of computing; representation and processing of numbers, texts, images; understanding patterns; loops and iterative functions, Python.
