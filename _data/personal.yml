@@ -1,20 +1,19 @@
 name: Nadi Serhan Aydın, FRM
 
-label: Asst. Prof. Dr. (HoD)
+label: Asst. Prof. & HoD
 
-picture: /img/profile-picture.jpg
+picture: /img/profile-picture.jpeg
 
 email: serhan.aydin@istinye.edu.tr
 
 phone:
 
-department: Dept. of Industrial Engineering
+department: Department of Industrial Engineering
 
 institution: Istinye University
 
 mailing_address: >
-  Edirne-Cirpici Yolu, No:9
-  Maltepe Mah., Zeytinburnu 34010
+  Zeytinburnu 34010
   Istanbul, Turkey
 
 profiles:
@@ -38,6 +37,6 @@ profiles:
 intro:
   title: Hi!
   body: >
-    I'm an assistant professor of Industrial Engineering at [Istinye University](https://www.istinye.edu.tr/) in Istanbul, Turkey. I obtained a BSc. in Management Engineering from [Istanbul Technical University](http://www.itu.edu.tr/) (2006), followed by an MSc. (2011) and a PhD. (2016) in Financial Mathematics from the Institute of Applied Mathematics at [Middle East Technical University](https://www.metu.edu.tr/) in Ankara, Turkey. I carried out my doctoral thesis studies at the [Financial Signal Processing (FSP) Lab](http://www.fsplab.com/) at [Imperial College London](https://www.imperial.ac.uk/). During my graduate studies, I was also granted research fellowships at Heidelberg and Ulm Universities. Prior to joining Istinye University, I was part-time faculty at the Department of Industrial Engineering at TED University in Ankara, Turkey. I am a designated Financial Risk Manager (FRM) and offer professional training courses to the financial industry. I'm also also serving on the editorial board of a number of international journals and review networks, like zbMATH. My research interest lies in computational finance, neuro-dynamic programming, signal processing and machine learning.
+    I'm an assistant professor of Industrial Engineering at [Istinye University](https://www.istinye.edu.tr/) in Istanbul, Turkey. I obtained a BSc. in Management Engineering from [Istanbul Technical University](http://www.itu.edu.tr/) (2006), followed by an MSc. (2011) and a PhD. (2016) in Financial Mathematics from the Institute of Applied Mathematics at [Middle East Technical University](https://www.metu.edu.tr/) in Ankara, Turkey. I carried out my doctoral thesis studies at the [Financial Signal Processing (FSP) Lab](http://www.fsplab.com/) at [Imperial College London](https://www.imperial.ac.uk/). During my graduate studies, I was also granted research fellowships at Heidelberg and Ulm Universities. Prior to joining Istinye University, I was part-time faculty at the Department of Industrial Engineering at TED University in Ankara, Turkey. I am a designated Financial Risk Manager (FRM) and offer professional training courses to the financial industry. I'm also also serving on the editorial boards of a number of international journals and review networks, like zbMATH. My research interest lies in computational finance, stochastic modelling, mathematical optimization, dynamic programming, signal processing and machine learning.
 # My research interest lies in computational finance, stochastic risk modelling, financial optimization, predictive data analytics, pattern
 # recognition, statistical/machine learning, and financial signal processing.
