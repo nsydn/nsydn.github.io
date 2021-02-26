@@ -4,7 +4,7 @@
   authors: Nadi Serhan Aydin
   journal: Journal of Financial Econometrics
   status: Under review
-#   id: 
+  id: ID not available 
 # year: 2021
 #  volume:
 #  issue:
@@ -53,11 +53,11 @@
   journal: Waste Management & Research
   status: Accepted
   year: 2021
+  doi: https://doi.org
 #  volume:
 #  issue:
 #  pdf:
 #  path:
-# doi: 
 -
   type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
@@ -65,7 +65,7 @@
   journal: Journal of Sustainable Finance & Investment
   status: Published
   year: 2020
-  volume: http://dx.doi.org/10.1080/20430795.2020.1769983
+  doi: http://dx.doi.org/10.1080/20430795.2020.1769983
   #pdf:
   #path:
 -
@@ -92,30 +92,33 @@
   title: Simulation and prediction of wind speeds (a neural network for Weibull)
   authors: S. Giebel, M. Rainer and N.S. Aydin
   journal: Journal of Iranian Statistical Society
-  volume: 12
-  issue: 1
-  pages: 293-319
-  status: Published
+  doi: https://doi.org
+#   volume: 12
+#   issue: 1
+#   pages: 293-319
+#   status: Published
   year: 2013
 -
   type: journal_article
   title: Valuation of power swing options
   authors: N.S. Aydin and M. Rainer
   journal: Journal of Energy Markets
-  volume: 6
-  issue: 3
-  pages: 89-110 (WoS)
-  status: Published
+  doi: http://dx.doi.org/10.21314/JEM.2013.095
+#   volume: 6
+#   issue: 3
+#   pages: 89-110 (WoS)
+#   status: Published
   year: 2013
 -
   type: journal_article
   title: Stress testing of energy-related derivative instruments based on conditional market risk models
   authors: N.S. Aydin and C.C. Kucukozmen
   journal: Journal of Energy, Market and Regulation
-  volume: 1
-  issue: 2
-  pages: 121-144
-  status: Published
+  doi: https://doi.org
+#   volume: 1
+#   issue: 2
+#   pages: 121-144
+#   status: Published
   year: 2010
 # -
 #   type: journal_preprint
