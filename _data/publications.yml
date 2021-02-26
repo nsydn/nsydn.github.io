@@ -9,7 +9,7 @@
 #  volume:
 #  issue:
 #  pdf:
-#  path:
+# path:
 -
   type: journal_preprint
   title: Modelling and predicting the dynamics of COVID-19 pandemic (a comparative case of Turkey)
@@ -18,7 +18,7 @@
   status: Under review
   id: SAG-2102-334 
 # year: 2021
-#  volume:
+# volume:
 #  issue:
 #  pdf:
 #  path:
@@ -28,8 +28,8 @@
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
   journal: Applied Soft Computing
   status: Under review
-#   year: 2021
   id: ASOC-D-20-03770
+#   year: 2021
 #  volume:
 #  issue:
 #  pdf:
@@ -41,12 +41,12 @@
   journal: Transactions on Fuzzy Systems
   status: Published
   year: 2021
+  doi: https://doi.org/10.1109/TFUZZ.2021.3053838
 #  volume:
 #  issue:
 #  pdf:
 #  path:
- doi: https://doi.org/10.1109/TFUZZ.2021.3053838
- -
+-
   type: journal_article
   title: A sustainable medical waste collection and transportation model for pandemics
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
@@ -57,8 +57,8 @@
 #  issue:
 #  pdf:
 #  path:
- # doi: 
- -
+# doi: 
+-
   type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
   authors: N.S. Aydin and M. Rainer
@@ -75,8 +75,8 @@
   journal: Computers & Industrial Engineering
   status: Published
   year: 2020
-  # volume: 149
-  # issue: Nov
+# volume: 149
+# issue: Nov
   doi: https://doi.org/10.1016/j.cie.2020.106790
 #  pdf:
 #  path:
@@ -86,7 +86,7 @@
   authors: N.S. Aydin
   journal: Applied Stochastic Models for Business and Industry
   status: Under review
-  #path:
+# path:
 -
   type: journal_article
   title: Simulation and Prediction of Wind Speeds - A Neural Network for Weibull
