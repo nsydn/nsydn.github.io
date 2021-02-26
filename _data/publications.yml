@@ -61,7 +61,7 @@
 -
   type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
-  authors: N.S. Aydin and M. Rainer
+  authors: Nadi Serhan Aydin and Martin Rainer
   journal: Journal of Sustainable Finance & Investment
   status: Published
   year: 2020
@@ -90,7 +90,7 @@
 # -
   type: journal_article
   title: Simulation and prediction of wind speeds (a neural network for Weibull)
-  authors: S. Giebel, M. Rainer and N.S. Aydin
+  authors: Stefan Giebel, Martin Rainer and Nadi Serhan Aydin
   journal: Journal of Iranian Statistical Society
   doi: https://doi.org
 #   volume: 12
@@ -101,7 +101,7 @@
 -
   type: journal_article
   title: Valuation of power swing options
-  authors: N.S. Aydin and M. Rainer
+  authors: Nadi Serhan Aydin and Martin Rainer
   journal: Journal of Energy Markets
   doi: http://dx.doi.org/10.21314/JEM.2013.095
 #   volume: 6
@@ -112,7 +112,7 @@
 -
   type: journal_article
   title: Stress testing of energy-related derivative instruments based on conditional market risk models
-  authors: N.S. Aydin and C.C. Kucukozmen
+  authors: Nadi Serhan Aydin and Coskun Kucukozmen
   journal: Journal of Energy, Market and Regulation
   doi: https://doi.org
 #   volume: 1
