@@ -12,7 +12,7 @@
 #  path:
 -
   type: journal_preprint
-  title: Modelling and predicting the dynamics of COVID-19 pandemic: a comparative case of Turkey
+  title: Modelling and predicting the dynamics of COVID-19 pandemic (a comparative case of Turkey)
   authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
   journal: Turkish Journal of Medical Sciences
   status: Under review
@@ -46,7 +46,6 @@
 #  pdf:
 #  path:
  doi: https://doi.org/10.1109/TFUZZ.2021.3053838
- 
  -
   type: journal_article
   title: A sustainable medical waste collection and transportation model for pandemics
