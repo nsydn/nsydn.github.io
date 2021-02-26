@@ -81,15 +81,15 @@
 #  pdf:
 #  path:
 -
-  type: journal_preprint
-  title: Optimal Information Disclosure in Heterogenous Networks - An Application to Limit Order Market
-  authors: N.S. Aydin
-  journal: Applied Stochastic Models for Business and Industry
-  status: Under review
-# path:
--
+#   type: journal_preprint
+#   title: Optimal Information Disclosure in Heterogenous Networks - An Application to Limit Order Market
+#   authors: N.S. Aydin
+#   journal: Applied Stochastic Models for Business and Industry
+#   status: Under review
+# # path:
+# -
   type: journal_article
-  title: Simulation and Prediction of Wind Speeds - A Neural Network for Weibull
+  title: Simulation and prediction of wind speeds (a neural network for Weibull)
   authors: S. Giebel, M. Rainer and N.S. Aydin
   journal: Journal of Iranian Statistical Society
   volume: 12
@@ -99,7 +99,7 @@
   year: 2013
 -
   type: journal_article
-  title: Valuation of Power Swing Options
+  title: Valuation of power swing options
   authors: N.S. Aydin and M. Rainer
   journal: Journal of Energy Markets
   volume: 6
@@ -109,7 +109,7 @@
   year: 2013
 -
   type: journal_article
-  title: Stress Testing of Energy-Related Derivative Instruments Based on Conditional Market Risk Models
+  title: Stress testing of energy-related derivative instruments based on conditional market risk models
   authors: N.S. Aydin and C.C. Kucukozmen
   journal: Journal of Energy, Market and Regulation
   volume: 1
