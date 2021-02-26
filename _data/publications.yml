@@ -1,4 +1,3 @@
--
   type: journal_preprint
   title: Reinforcement learning based optimal trading in a heterogeneous agent network 
   authors: Nadi Serhan Aydin
@@ -24,7 +23,7 @@
 #  path:
 -
   type: journal_preprint
-  title: Integrated Design of Sustainable Supply Chain and Transportation Network using Fuzzy Goal Programming
+  title: Integrated design of sustainable supply chain and transportation network using fuzzy goal programming
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
   journal: Applied Soft Computing
   status: Under review
@@ -36,7 +35,7 @@
 #  path:
 -
   type: journal_article
-  title: Fuzzy Integrated Cell Formation and Production Scheduling considering Automated Guided Vehicles and Human Factors
+  title: Fuzzy integrated cell formation and production scheduling considering automated guided vehicles and human factors
   authors: Alireza Goli, Erfan Babaee Tirkolaee and Nadi Serhan Aydin
   journal: Transactions on Fuzzy Systems
   status: Published
