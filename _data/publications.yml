@@ -1,46 +1,86 @@
 -
   type: journal_preprint
-  title: Integrated Design of Sustainable Supply Chain and Transportation Network using Fuzzy Goal Programming
-  authors: E.B. Tirkolaee and N.S. Aydin
-  journal: Applied Soft Computing
+  title: Reinforcement learning based optimal trading in a heterogeneous agent network 
+  authors: Nadi Serhan Aydin
+  journal: Journal of Financial Econometrics
   status: Under review
-  year: 2020
+#   id: 
+# year: 2021
 #  volume:
 #  issue:
 #  pdf:
 #  path:
 -
   type: journal_preprint
-  title: Fuzzy Integrated Cell Formation and Production Scheduling considering Automated Guided Vehicles and Human Factors
-  authors: A. Goli, E.B. Tirkolaee and N.S. Aydin
-  journal: Transactions on Fuzzy Systems
+  title: Modelling and predicting the dynamics of COVID-19 pandemic: a comparative case of Turkey
+  authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
+  journal: Turkish Journal of Medical Sciences
   status: Under review
-  year: 2020
+  id: SAG-2102-334 
+# year: 2021
+#  volume:
+#  issue:
+#  pdf:
+#  path:
+-
+  type: journal_preprint
+  title: Integrated Design of Sustainable Supply Chain and Transportation Network using Fuzzy Goal Programming
+  authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
+  journal: Applied Soft Computing
+  status: Under review
+#   year: 2021
+  id: ASOC-D-20-03770
 #  volume:
 #  issue:
 #  pdf:
 #  path:
 -
   type: journal_article
-  title: A robust bi-objective mathematical model for disaster rescue units allocation and scheduling with learning effect
-  authors: E.B. Tirkolaee, N.S. Aydin, G.-W. Weber and M. Ranjbar-Bourani
-  journal: Computers & Industrial Engineering
+  title: Fuzzy Integrated Cell Formation and Production Scheduling considering Automated Guided Vehicles and Human Factors
+  authors: Alireza Goli, Erfan Babaee Tirkolaee and Nadi Serhan Aydin
+  journal: Transactions on Fuzzy Systems
   status: Published
-  year: 2020
-  volume: 149
-  issue: Nov
+  year: 2021
+#  volume:
+#  issue:
 #  pdf:
 #  path:
--
+ doi: https://doi.org/10.1109/TFUZZ.2021.3053838
+ 
+ -
+  type: journal_article
+  title: A sustainable medical waste collection and transportation model for pandemics
+  authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
+  journal: Waste Management & Research
+  status: Accepted
+  year: 2021
+#  volume:
+#  issue:
+#  pdf:
+#  path:
+ # doi: 
+ -
   type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
   authors: N.S. Aydin and M. Rainer
   journal: Journal of Sustainable Finance & Investment
   status: Published
   year: 2020
-  volume: DOI-10.1080/20430795.2020.1769983
+  volume: http://dx.doi.org/10.1080/20430795.2020.1769983
   #pdf:
   #path:
+-
+  type: journal_article
+  title: A robust bi-objective mathematical model for disaster rescue units allocation and scheduling with learning effect
+  authors: Erfan Babaee Tirkolaee, Nadi Serhan Aydin, Gerhard-Wilhelm Weber and Mehdi Ranjbar-Bourani
+  journal: Computers & Industrial Engineering
+  status: Published
+  year: 2020
+  # volume: 149
+  # issue: Nov
+  doi: https://doi.org/10.1016/j.cie.2020.106790
+#  pdf:
+#  path:
 -
   type: journal_preprint
   title: Optimal Information Disclosure in Heterogenous Networks - An Application to Limit Order Market

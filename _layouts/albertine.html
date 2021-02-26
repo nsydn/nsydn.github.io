@@ -162,12 +162,13 @@ It is threatened by habitat loss.
               {% when 'dissertation' %}
                 {{ publication.publisher }}
               {% when 'journal_article' %}
-                {{ publication.journal }},
-                {{ publication.volume }},
-                {{ publication.issue }},
-                {{ publication.pages }}
-              {% when 'journal_preprint' %}
                 {{ publication.journal }}
+<!--                 {{ publication.volume }}, -->
+<!--                 {{ publication.issue }}, -->
+<!--                 {{ publication.pages }} -->
+              {% when 'journal_preprint' %}
+                {{ publication.journal }} 
+                ({{ publication.id }})
               {% when 'magazine' %}
                 {{ publication.magazine }},
                 {{ publication.volume }},
