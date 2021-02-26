@@ -1,12 +1,23 @@
 -
-  name: 'Deep Learning based Diabetic Retinopathy Stage Diagnosis, Change and Risk Prediction'
+  name: 'Deep learning based financial pattern recognition'
 #  description: >
 #    My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior.
 #    Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior.
 #    Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
   type: BAP Project (Istinye University)
-  with: Mustafa Misir & Cetin Kaya Koc
-#  image: /img/phd-thesis.png
+  with: with Mustafa Misir and Cetin Kaya Koc
+  status: Accepted (Suspended)
+  image: /img/retino.png
+-
+  name: 'Deep learning based diabetic retinopathy stage diagnosis, change and risk prediction'
+#  description: >
+#    My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior.
+#    Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior.
+#    Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
+  type: BAP Project (Istinye University)
+  with: with Mustafa Misir and Cetin Kaya Koc
+  status: Accepted (Suspended)
+  image: /img/retino.png
 #  url: http://ianli.com/thesis/
 # -
 #   name: Model of Personal Informatics Systems
