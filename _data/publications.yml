@@ -1,10 +1,10 @@
 -
   type: journal_preprint
-  title: Reinforcement learning based optimal trading in a heterogeneous agent network 
+  title: Reinforcement learning based optimal trading in a simulated heterogeneous agent network 
   authors: Nadi Serhan Aydin
-  journal: Journal of Financial Econometrics
+  journal: Simulation: Transactions of the Society for Modeling and Simulation International
   status: Under review
-  id: ID not available 
+  id: A-21-0092 
 # year: 2021
 #  volume:
 #  issue:
@@ -12,11 +12,11 @@
 # path:
 -
   type: journal_preprint
-  title: Modelling and predicting the dynamics of COVID-19 pandemic (a comparative case of Turkey)
+  title: Modelling and predicting the growth dynamics of COVID-19 pandemic (a comparative case of Turkey)
   authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
-  journal: Turkish Journal of Medical Sciences
+  journal: Gazi University Journal of Science
   status: Under review
-  id: SAG-2102-334 
+  id: 894640 
 # year: 2021
 # volume:
 #  issue:
