@@ -1,20 +1,31 @@
 -
+  name: 'Sustainable Aggregate Production Planning using Multi-Criteria Decision-Making, Mathematical Modeling and Dynamic Programming'
+  description: >
+   The project aims to contribute to the current theoretical as well as practical approaches in the domain of sustainable aggregate production planning (APP). In this context, it will focus on developing a hybrid multi-criteria production optimization model that incorporates sustainability as a factor and harnesses both conventional mathematical optimization and dynamic programming methods (such as reinforcement learning). The project also aims to develop a decision support system to enhance the utilization of the developed algorithm.
+  type: 2235 TUBITAK-MSRT Joint Project (Istinye University)
+  with: Nadi Serhan Aydin (Principal Researcher), Erfan Babaee Tirkolaee (Researcher), Mustafa Misir (Researcher)
+  budget: TRY89000
+  status: Started (November 1, 2020)
+  timeline: 18 months
+  image: /img/finance.jpg
+-
   name: 'Deep learning based financial pattern recognition'
   description: >
-   The project aims to ...
+   The project aims to bring a new approach to financial prediction using deep learning based pattern recognition.
   type: BAP Project (Istinye University)
-  with: with Mustafa Misir
-  status: Accepted
+  with: Nadi Serhan Aydin (Principal Researcher), Mustafa Misir (Researcher)
+  status: Accepted, not yet started
+  timeline: 12 months
   image: /img/finance.jpg
 -
   name: 'Deep learning based diabetic retinopathy stage diagnosis, change and risk prediction'
-#  description: >
+  description: >
 #    My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior.
 #    Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior.
 #    Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
   type: BAP Project (Istinye University)
-  with: with Mustafa Misir and Cetin Kaya Koc
-  status: Accepted (Suspended)
+  with: Mustafa Misir (Principal Researcher), Cetin Kaya Koc (Researcher), Nadi Serhan Aydin (Researcher)
+  status: Accepted, not yet started
   image: /img/retino.png
 #  url: http://ianli.com/thesis/
 # -
