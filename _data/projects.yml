@@ -8,16 +8,16 @@
   timeline: 18 months
   image: /img/app.jpg
 -
-  name: 'Deep learning based financial pattern recognition'
-  description: The project aims to bring a new approach to financial prediction using deep learning based pattern recognition.
+  name: 'Financial Pattern Recognition through Deep-Learning-based Image Processing'
+  description: the present project departs from the conventional approach to the prediction problem based on financial data. To put it differently, the project falls apart from the broader part of the literature which deals with conventional stochastic and/or autoregressive models for predicting the financial data based solely on temporal dynamics within the numerical data. That said, the project can be deemed as part of literature that mainly deals with extracting signals from financial data based mainly on identifying patterns. It further departs from the latter group by adopting a relatively new approach, namely, the image-based approach, to identifying the visual patterns in the financial data. This novel approach is in fact largely encouraged by the recent success of deep neural networks in image-based pattern recognition (also known as computer vision). This attracted the attention of many researchers from other fields, including quantitative finance. To that end, the project seeks to extend the current body of literature on image-based financial pattern recognition with a view to developing a model with a higher predictive performance.
   type: BAP Project (Istinye University)
   with: Nadi Serhan Aydin (Principal Researcher), Mustafa Misir (Researcher)
   status: Accepted, not yet started
   timeline: 12 months
   image: /img/finance.jpg
 -
-  name: 'Deep learning based diabetic retinopathy stage diagnosis, change and risk prediction'
-  description: >
+  name: 'Deep Learning based Diabetic Retinopathy Stage Diagnosis, Change and Risk Prediction'
+  description: Examining the retinal fundus images of the diabetes patients is one common way to go for investigating DR. With the increasing amount of those fundus images, it can be possible to derive computer-based systems that can perform those DR investigations. Such systems can offer fast diagnosis with high accuracy, which is helpful both for the patients and their doctors – so the hospitals. The present project aims at devising a Deep Learning (DL) based DR diagnosis and prediction tool.
 #    My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior.
 #    Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior.
 #    Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
@@ -27,8 +27,8 @@
   image: /img/retino.png
 #  url: http://ianli.com/thesis/
 -
-  name: 'Model Factory Concept and Digital Transformation Applications in Manufacturing (Phase 1 - Model Manufacturing Line)'
-  description: Model factories can be defined as a tool (a competency center for common use) that enables the dissemination of operational excellence principles in enterprises in a scalable manner by using experiential learning techniques. The most basic feature that distinguishes model factories from other structures established to increase the productivity and competitiveness of employees and therefore businesses is that they combine theory and practice by using experiential learning techniques and thus make their competence gains permanent. As a part of the model factory concept, digital twin or virtual commissioning methods will result in the digitization of physical production activities, digital monitoring of production flow, cycle times, line occupancy rates, efficiency and quality. benefits will be discussed. It is also aimed to provide training and consultancy services that enable the teaching and dissemination of operational excellence principles by using experiential learning techniques in the model factory to be established. In this way, it is aimed to change the existing perspectives of enterprises on issues such as continuous improvement, lean production and digital transformation, to use human, machine / equipment, raw materials, materials, time and energy resources in the most efficient way and to increase their competitive power in a short time.
+  name: 'Model Factory Concept and Digital Transformation Applications in Manufacturing'
+  description: Model factories can be defined as a tool that enables the dissemination of operational excellence principles in enterprises in a scalable manner by using experiential learning techniques. The most basic feature that distinguishes model factories from other structures established to increase the productivity and competitiveness of employees and therefore businesses is that they combine theory and practice by using experiential learning techniques and thus make their competence gains permanent. As a part of the model factory concept, digital twin or virtual commissioning methods will result in the digitization of physical production activities, digital monitoring of production flow, cycle times, line occupancy rates, efficiency and quality. benefits will be discussed. It is also aimed to provide training and consultancy services that enable the teaching and dissemination of operational excellence principles by using experiential learning techniques in the model factory to be established. In this way, it is aimed to change the existing perspectives of enterprises on issues such as continuous improvement, lean production and digital transformation, to use human, machine / equipment, raw materials, materials, time and energy resources in the most efficient way and to increase their competitive power in a short time.
   type: BAP Project (Istinye University)
   with: Nadi Serhan Aydin (Principal Researcher)
   image: /img/model_factory.jpg
