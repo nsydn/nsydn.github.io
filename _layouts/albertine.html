@@ -136,7 +136,7 @@ It is threatened by habitat loss.
   <div class="container">
     <div class="row">
       <section class="col-md-9">
-        <h3>Publications</h3>
+        <h3>Selected Publications</h3>
         {% for publication in site.data.publications %}
           <p>
             <b>
@@ -164,7 +164,7 @@ It is threatened by habitat loss.
               {% when 'journal_article' %}
                 {{ publication.journal }}
                 <br>
-                {{ publication.doi }}
+                {{ publication.url }}
 <!--                 {{ publication.volume }}, -->
 <!--                 {{ publication.issue }}, -->
 <!--                 {{ publication.pages }} -->
