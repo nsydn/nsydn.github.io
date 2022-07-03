@@ -99,7 +99,6 @@ It is threatened by habitat loss.
         <p>
           <!-- {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }} -->
           {{ site.data.personal.email1 }}
-          {{ site.data.personal.email2 }}
         </p>
         <p>
           {{ site.data.personal.department }}<br>
@@ -117,7 +116,7 @@ It is threatened by habitat loss.
             {% elsif profile.network == 'Twitter' %}
               <i class="fa fa-twitter-square"></i>
             {% endif %}
-            <a href="{{ profile.url }}">
+            <a href="{{ profile.url }}" target="www">
               {{ profile.network }}
             </a>
             {% if forloop.last == false %}
@@ -140,7 +139,7 @@ It is threatened by habitat loss.
         {% for publication in site.data.publications %}
           <p>
             <b>
-              <a href="{{ publication.url }}">
+              <a href="{{ publication.url }}" target="www">
                 {{ publication.title }}
               </a>
             </b>
@@ -161,11 +160,6 @@ It is threatened by habitat loss.
                 {{ publication.publisher }}
               {% when 'journal_article' %}
                 {{ publication.journal }}
-                <br>
-                <!-- {{ publication.url }} -->
-<!--                 {{ publication.volume }}, -->
-<!--                 {{ publication.issue }}, -->
-<!--                 {{ publication.pages }} -->
               {% when 'journal_preprint' %}
                 {{ publication.journal }} 
                 ({{ publication.id }})
