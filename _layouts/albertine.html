@@ -205,7 +205,6 @@ It is threatened by habitat loss.
                     col-sm-9
                     col-md-6
                     col-lg-7">
-          <p>
             <b>
               {% if project.url %}
                 <a href="{{ project.url }}">
@@ -215,7 +214,6 @@ It is threatened by habitat loss.
                 {{ project.name }}
               {% endif %}
             </b>
-          </p>
           {{ project.description | markdownify }}
         </div>
       </div>
