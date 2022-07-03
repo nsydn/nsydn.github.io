@@ -1,7 +1,6 @@
 -
   name: 'Sustainable Aggregate Production Planning using Multi-Criteria Decision-Making, Mathematical Modeling and Dynamic Programming'
-  description: >
-   The project aims to contribute to the current theoretical as well as practical approaches in the domain of sustainable aggregate production planning (APP). In this context, it will focus on developing a hybrid multi-criteria production optimization model that incorporates sustainability as a factor and harnesses both conventional mathematical optimization and dynamic programming methods (such as reinforcement learning). The project also aims to develop a decision support system to enhance the utilization of the developed algorithm.
+  description: The project aims to contribute to the current theoretical as well as practical approaches in the domain of sustainable aggregate production planning (APP). In this context, it will focus on developing a hybrid multi-criteria production optimization model that incorporates sustainability as a factor and harnesses both conventional mathematical optimization and dynamic programming methods (such as reinforcement learning). The project also aims to develop a decision support system to enhance the utilization of the developed algorithm.
   type: 2235 TUBITAK-MSRT Joint Project (Istinye University)
   with: Nadi Serhan Aydin (Principal Researcher), Erfan Babaee Tirkolaee (Researcher), Mustafa Misir (Researcher)
   budget: TRY89000
