@@ -1,11 +1,12 @@
 -
   type: journal_article
-  title: Reinforcement learning based optimal trading in a simulated heterogeneous agent network 
+  title: [Reinforcement learning based optimal trading in a simulated heterogeneous agent network](https://doi.org/10.1177/00375497211061114) 
   authors: Nadi Serhan Aydin
   journal: Simulation - Transactions of the Society for Modeling and Simulation International, 98(4)
   status: Published
   #id: A-21-0092 
   year: 2022
+  url: https://doi.org/10.1177/00375497211061114
   #volume: 98
   #issue: 4
 #  pdf:
