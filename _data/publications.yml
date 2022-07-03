@@ -18,7 +18,7 @@
   status: Published
   #id: ASOC-D-20-03770
   year: 2022
-  doi: https://doi.org/10.1007/s10668-022-02304-8
+  url: https://doi.org/10.1007/s10668-022-02304-8
 -
   type: journal_article
   title: Modelling and predicting the growth dynamics of COVID-19 pandemic - a comparative study including Turkey
@@ -51,7 +51,7 @@
   status: Published
   #id: ASOC-D-20-03770
   year: 2022
-  doi: https://doi.org/10.1016/j.eswa.2022.116628
+  url: https://doi.org/10.1016/j.eswa.2022.116628
 #  volume:
 #  issue:
 #  pdf:
@@ -63,7 +63,7 @@
   journal: Transactions on Fuzzy Systems
   status: Published
   year: 2021
-  doi: https://doi.org/10.1109/TFUZZ.2021.3053838
+  url: https://doi.org/10.1109/TFUZZ.2021.3053838
 #  volume:
 #  issue:
 #  pdf:
@@ -75,7 +75,7 @@
   journal: Waste Management & Research
   status: Accepted
   year: 2021
-  doi: https://doi.org/10.1177/0734242X211000437
+  url: https://doi.org/10.1177/0734242X211000437
 #  volume:
 #  issue:
 #  pdf:
@@ -87,7 +87,7 @@
   journal: Journal of Sustainable Finance & Investment
   status: Published
   year: 2020
-  doi: http://dx.doi.org/10.1080/20430795.2020.1769983
+  url: http://dx.doi.org/10.1080/20430795.2020.1769983
   #pdf:
   #path:
 -
@@ -99,7 +99,7 @@
   year: 2020
 # volume: 149
 # issue: Nov
-  doi: https://doi.org/10.1016/j.cie.2020.106790
+  url: https://doi.org/10.1016/j.cie.2020.106790
 #  pdf:
 #  path:
 -
@@ -114,7 +114,7 @@
   title: Simulation and prediction of wind speeds (a neural network for Weibull)
   authors: Stefan Giebel, Martin Rainer and Nadi Serhan Aydin
   journal: Journal of Iranian Statistical Society
-  doi: https://doi.org
+  url: https://doi.org
 #   volume: 12
 #   issue: 1
 #   pages: 293-319
@@ -125,7 +125,7 @@
   title: Valuation of power swing options
   authors: Nadi Serhan Aydin and Martin Rainer
   journal: Journal of Energy Markets
-  doi: http://dx.doi.org/10.21314/JEM.2013.095
+  url: http://dx.doi.org/10.21314/JEM.2013.095
 #   volume: 6
 #   issue: 3
 #   pages: 89-110 (WoS)
@@ -136,7 +136,7 @@
   title: Stress testing of energy-related derivative instruments based on conditional market risk models
   authors: Nadi Serhan Aydin and Coskun Kucukozmen
   journal: Journal of Energy, Market and Regulation
-  doi: https://doi.org
+  url: https://doi.org
 #   volume: 1
 #   issue: 2
 #   pages: 121-144
