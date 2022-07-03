@@ -1,20 +1,20 @@
 -
   name: 'Systems Simulation'
-  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  description: Simulation modelling concepts and discrete-event simulation, Random number and random variate generation, Selection of probability distributions for model inputs, Validation and verification, Output analysis, Comparison of alternative systems.
   where: Istinye University
   when: 2021/22 Spring
   code: ISE203
   image: /img/syssim.png
 -
   name: 'Introduction to Optimization'
-  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  description: This is a university elective course which covers basics of optimization. Topics include linear programming, model formulation, graphical method, simplex metod, sensitivity analysis, duality, Python/Excel examples, transportation/network models, integer optimization.
   where: Istinye University
   when: 2021/22 Spring
   code: ISE203
   image: /img/opres2.png
 -
   name: 'Financial Engineering'
-  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  description: Financial markets, derivative securities, risk management, mathematical models in finance. Foreign exchange, debt equity, commodity markets. Investing, trading, hedging arbitrage. Forwards, futures, options, swaps, exotic derivatives. Models of price dynamics, binomial model, introduction to Black-Scholes theory and Monte Carlo simulation.
   where: Istinye University
   when: 2021/22 Fall
   code: ISE203
