@@ -98,7 +98,9 @@ It is threatened by habitat loss.
         <h3>Contact</h3>
         <p>
           <!-- {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }} -->
-          {{ site.data.personal.email1 }}
+          <a href="mailto:{{ site.data.personal.email1 }}">
+            {{ site.data.personal.email1 }}
+          </a>
         </p>
         <p>
           {{ site.data.personal.department }}<br>
