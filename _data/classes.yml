@@ -1,8 +1,29 @@
 -
+  name: 'Systems Simulation'
+  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  where: Istinye University
+  when: 2021/22 Spring
+  code: ISE203
+  image: /img/syssim.png
+-
+  name: 'Introduction to Optimization'
+  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  where: Istinye University
+  when: 2021/22 Spring
+  code: ISE203
+  image: /img/opres2.png
+-
+  name: 'Financial Engineering'
+  description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
+  where: Istinye University
+  when: 2021/22 Fall
+  code: ISE203
+  image: /img/fin_eng2.png
+-
   name: 'Engineering Economics'
   description: Time value of money, economic equivalence, present worth (PW), annual equivalent worth (AEW), internal rate of return (IRR), benefit-cost analysis, uncertainty, replacement analysis.
   where: Istinye University
-  when: 2020/21 Fall
+  when: 2020/21 Fall, 2021/22 Fall
   code: ISE203
   image: /img/econ.jpeg
 -
