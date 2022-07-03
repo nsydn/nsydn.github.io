@@ -1,35 +1,57 @@
 -
-  type: journal_preprint
+  type: journal_article
   title: Reinforcement learning based optimal trading in a simulated heterogeneous agent network 
   authors: Nadi Serhan Aydin
-  journal: Simulation - Transactions of the Society for Modeling and Simulation International
-  status: Under review
-  id: A-21-0092 
-# year: 2021
-#  volume:
-#  issue:
+  journal: Simulation - Transactions of the Society for Modeling and Simulation International, 98(4)
+  status: Published
+  #id: A-21-0092 
+  year: 2022
+  #volume: 98
+  #issue: 4
 #  pdf:
 # path:
 -
-  type: journal_preprint
-  title: Modelling and predicting the growth dynamics of COVID-19 pandemic (a comparative case of Turkey)
+  type: journal_article
+  title: A Systematic Review of Aggregate Production Planning Literature with an Outlook for Sustainability and Circularity
   authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
-  journal: Gazi University Journal of Science
-  status: Under review
-  id: 894640 
-# year: 2021
-# volume:
-#  issue:
+  journal: Environment, Development and Sustainability
+  status: Published
+  #id: ASOC-D-20-03770
+  year: 2022
+  doi: https://doi.org/10.1007/s10668-022-02304-8
+-
+  type: journal_article
+  title: Modelling and predicting the growth dynamics of COVID-19 pandemic - a comparative study including Turkey
+  authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
+  journal: Journal of Turkish Operations Management, 6(1)
+  status: Published
+#  id: 894640 
+  year: 2022
+  #volume: 6
+  #issue: 1
 #  pdf:
 #  path:
 -
-  type: journal_preprint
+  type: journal_article
+  title: A novel bi-objective model for a multi-period multi-product closed-loop supply chain
+  authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
+  journal: Journal of Engineering Sciences and Design, 10(1)
+  status: Published
+#  id: 894640 
+  year: 2022
+  #volume: 6
+  #issue: 1
+#  pdf:
+#  path:
+-
+  type: journal_article
   title: Integrated design of sustainable supply chain and transportation network using fuzzy goal programming
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
-  journal: Applied Soft Computing
-  status: Accepted with revision
-  id: ASOC-D-20-03770
-#   year: 2021
+  journal: Expert Systems With Applications, 195(116628)
+  status: Published
+  #id: ASOC-D-20-03770
+  year: 2022
+  doi: https://doi.org/10.1016/j.eswa.2022.116628
 #  volume:
 #  issue:
 #  pdf:

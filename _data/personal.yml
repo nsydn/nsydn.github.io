@@ -21,11 +21,11 @@ profiles:
   -
     network: Google Scholar
     username:
-    url: <a href="https://scholar.google.com/citations?user=jt_tX5sAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    url: https://scholar.google.com/citations?user=jt_tX5sAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/in/nsaydn/
+    url: https://www.linkedin.com/in/nsydn/
   -
     network: Twitter
     username: nsydn_
