@@ -2,7 +2,7 @@
   type: journal_article
   title: Reinforcement learning based optimal trading in a simulated heterogeneous agent network 
   authors: Nadi Serhan Aydin
-  journal: Simulation - Transactions of the Society for Modeling and Simulation International, 98(4)
+  journal: Simulation - Transactions of the Society for Modeling and Simulation International (SIM), 98(4)
   status: Published
   #id: A-21-0092 
   year: 2022
@@ -15,7 +15,7 @@
   type: journal_article
   title: A Systematic Review of Aggregate Production Planning Literature with an Outlook for Sustainability and Circularity
   authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
-  journal: Environment, Development and Sustainability
+  journal: Environment, Development and Sustainability (ENVI) (Online first)
   status: Published
   #id: ASOC-D-20-03770
   year: 2022
@@ -24,7 +24,7 @@
   type: journal_article
   title: Modelling and predicting the growth dynamics of COVID-19 pandemic - a comparative study including Turkey
   authors: Nadi Serhan Aydin and Erfan Babaee Tirkolaee
-  journal: Journal of Turkish Operations Management, 6(1)
+  journal: Journal of Turkish Operations Management (JTOM), 6(1)
   status: Published
 #  id: 894640 
   year: 2022
@@ -36,7 +36,7 @@
   type: journal_article
   title: A novel bi-objective model for a multi-period multi-product closed-loop supply chain
   authors: Nadi Serhan Aydin
-  journal: Journal of Engineering Sciences and Design, 10(1)
+  journal: Journal of Engineering Sciences and Design (JESD), 10(1)
   status: Published
 #  id: 894640 
   year: 2022
@@ -48,7 +48,7 @@
   type: journal_article
   title: Integrated design of sustainable supply chain and transportation network using fuzzy goal programming
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
-  journal: Expert Systems With Applications, 195(116628)
+  journal: Expert Systems With Applications (ESWA), 195(116628)
   status: Published
   #id: ASOC-D-20-03770
   year: 2022
@@ -61,7 +61,7 @@
   type: journal_article
   title: Fuzzy integrated cell formation and production scheduling considering automated guided vehicles and human factors
   authors: Alireza Goli, Erfan Babaee Tirkolaee and Nadi Serhan Aydin
-  journal: Transactions on Fuzzy Systems
+  journal: Transactions on Fuzzy Systems (TFS), 29(12)
   status: Published
   year: 2021
   url: https://doi.org/10.1109/TFUZZ.2021.3053838
@@ -73,7 +73,7 @@
   type: journal_article
   title: A sustainable medical waste collection and transportation model for pandemics
   authors: Erfan Babaee Tirkolaee and Nadi Serhan Aydin
-  journal: Waste Management & Research
+  journal: Waste Management & Research (WM&R), 39(1)
   status: Accepted
   year: 2021
   url: https://doi.org/10.1177/0734242X211000437
@@ -85,7 +85,7 @@
   type: journal_article
   title: Asset-backed Stable Numéraire Approach for Sustainable Valuation
   authors: Nadi Serhan Aydin and Martin Rainer
-  journal: Journal of Sustainable Finance & Investment
+  journal: Journal of Sustainable Finance & Investment (JSFI), 12(2)
   status: Published
   year: 2020
   url: http://dx.doi.org/10.1080/20430795.2020.1769983
@@ -95,7 +95,7 @@
   type: journal_article
   title: A robust bi-objective mathematical model for disaster rescue units allocation and scheduling with learning effect
   authors: Erfan Babaee Tirkolaee, Nadi Serhan Aydin, Gerhard-Wilhelm Weber and Mehdi Ranjbar-Bourani
-  journal: Computers & Industrial Engineering
+  journal: Computers & Industrial Engineering (CAIE), 149(106790)
   status: Published
   year: 2020
 # volume: 149
