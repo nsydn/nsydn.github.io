@@ -114,10 +114,10 @@
   type: journal_article
   title: Simulation and prediction of wind speeds (a neural network for Weibull)
   authors: Stefan Giebel, Martin Rainer and Nadi Serhan Aydin
-  journal: Journal of Iranian Statistical Society
-  url: https://doi.org
+  journal: Journal of Iranian Statistical Society (JIRSS), 12(2)
+  url: http://jirss.irstat.ir/article-1-234-en.html
 #   volume: 12
-#   issue: 1
+#   issue: 2
 #   pages: 293-319
 #   status: Published
   year: 2013
@@ -125,7 +125,7 @@
   type: journal_article
   title: Valuation of power swing options
   authors: Nadi Serhan Aydin and Martin Rainer
-  journal: Journal of Energy Markets
+  journal: Journal of Energy Markets (JEM), 6(3)
   url: http://dx.doi.org/10.21314/JEM.2013.095
 #   volume: 6
 #   issue: 3
