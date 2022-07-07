@@ -149,7 +149,9 @@ It is threatened by habitat loss.
             {% if publication.type == 'journal_preprint' %}
               {{ publication.status }}
             {% else %}
-              {{ publication.year }}
+              <font color="#ff5722">
+                {{ publication.year }}
+              </font>
             {% endif %}
             </small>
             <br>
